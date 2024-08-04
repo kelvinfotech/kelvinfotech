@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelvinfotech (Mwenda Kelvin)
+- 👋 Hi, I’m Mwenda Kelvin (@kelvinfotech)
 - 👀 I’m interested in s/architecture and technology
 - 🌱 I’m currently learning s/toys development and programming
 - 💞️ I’m looking to collaborate on website development and programming projects
